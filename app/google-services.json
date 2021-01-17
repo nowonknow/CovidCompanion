@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894191047901",
+    "project_id": "covid-companion-775db",
+    "storage_bucket": "covid-companion-775db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894191047901:android:1744854e254fc61c0b3734",
+        "android_client_info": {
+          "package_name": "com.example.covidcompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894191047901-qdho410sforndvvovdcaj5pinph53605.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3f9cdszWSi5V0rVUfcM6JTiNpEmPyBu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894191047901-qdho410sforndvvovdcaj5pinph53605.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
