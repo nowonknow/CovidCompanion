@@ -6,7 +6,9 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e73b0c23-2dd6-4169-bdc9-f4f4246ec98a" name="Default Changelist" comment="" />
+    <list default="true" id="e73b0c23-2dd6-4169-bdc9-f4f4246ec98a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -112,6 +115,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="668" y="414" key="Github.ShareDialog" timestamp="1610843060664">
+      <screen x="0" y="0" width="1620" height="1040" />
+    </state>
+    <state x="668" y="414" key="Github.ShareDialog/0.0.1620.1040@0.0.1620.1040" timestamp="1610843060664" />
+    <state x="312" y="163" key="SettingsEditor" timestamp="1610842768803">
+      <screen x="0" y="0" width="1620" height="1040" />
+    </state>
+    <state x="312" y="163" key="SettingsEditor/0.0.1620.1040@0.0.1620.1040" timestamp="1610842768803" />
     <state x="473" y="239" key="search.everywhere.popup" timestamp="1610831682752">
       <screen x="0" y="0" width="1620" height="1040" />
     </state>
